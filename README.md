@@ -6,11 +6,11 @@
    
 2) September 16th 2024 - Refresher on Reinforcement Learning, Deep RL, and Policy Gradient Methods (presented by Dr. Pingali)
 
-* Recommended reading: Barto and Sutton Chapter 13 | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Recommended reading: Barto and Sutton Chapter 13 [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
    
 3) September 23rd 2024 - Advanced Policy Gradient Methods (presented by Lain)
 
-* Recommended reading: Barto and Sutton Chapter 13 | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Recommended reading: Barto and Sutton Chapter 13 [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
 4) September 30th 2024 - TBD (planned: Neural Networks) 
    
