@@ -12,7 +12,15 @@
 
 * Recommended reading: Barto and Sutton Chapter 13 | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
-4) September 30th 2024 - Neural Networks 
+4) September 30th 2024 - Neural Networks
+   
+5) October 7th 2024 - TBD
+
+6) October 14th 2024 - TBD
+
+7) October 21st 2024 - TBD
+
+8) October 28th 2024 - TBD
 
 ## Resources
 
