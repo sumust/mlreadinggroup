@@ -12,15 +12,26 @@
 
 * Recommended reading: Barto and Sutton Chapter 13 | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
-4) September 30th 2024 - Neural Networks
+4) September 30th 2024 - TBD (planned: Neural Networks) 
    
-5) October 7th 2024 - TBD
+5) October 7th 2024 - TBD (planned: Applications of Neural Networks)
 
-6) October 14th 2024 - TBD
+6) October 14th 2024 - TBD (planned: Transformers)
 
-7) October 21st 2024 - TBD
+7) October 21st 2024 - Kolmogorov-Arnold Networks (KANs) (presented by Dr. Chatterjee)
 
-8) October 28th 2024 - TBD
+* Recommended reading: [KAN paper](https://arxiv.org/abs/2404.19756)
+
+8) October 28th 2024 - TBD (planned: Training LLMs) 
+
+9) November 4 2024 - TBD (planned: Evaluation/Interpretability of LLMs)
+
+10) November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))
+
+11) November 18 2024 - TBD
+
+12) November 25 2024 - TBD
+
 
 ## Resources
 
