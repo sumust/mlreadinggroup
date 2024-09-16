@@ -8,11 +8,11 @@
 
 * Recommended reading: Barto and Sutton Chapter 13 | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
    
-4) September 23rd 2024 - Advanced Policy Gradient Methods (presented by Lain)
+3) September 23rd 2024 - Advanced Policy Gradient Methods (presented by Lain)
 
 * Recommended reading: Barto and Sutton Chapter 13 | [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
-5) September 30th 2024 - Neural Networks 
+4) September 30th 2024 - Neural Networks 
 
 ## Resources
 
