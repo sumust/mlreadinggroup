@@ -1,6 +1,6 @@
 # ML Reading Group 
 
-## Agenda
+## Schedule
 
 1) September 9th 2024 - Agenda Discussion
    
