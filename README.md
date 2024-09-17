@@ -18,15 +18,23 @@
 
 6) October 14th 2024 - TBD (planned: Transformers)
 
+* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
+  
 7) October 21st 2024 - Kolmogorov-Arnold Networks (KANs) (presented by Dr. Chatterjee)
 
 * Recommended reading: [KAN paper](https://arxiv.org/abs/2404.19756)
 
 8) October 28th 2024 - TBD (planned: Training LLMs) 
 
+* Recommended reading: 
+  
 9) November 4 2024 - TBD (planned: Evaluation/Interpretability of LLMs)
 
+* Recommended reading: 
+
 10) November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))
+
+* Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
 
 11) November 18 2024 - TBD
 
