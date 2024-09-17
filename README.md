@@ -2,43 +2,47 @@
 
 ## Schedule
 
-1) September 9th 2024 - Agenda Discussion
+1) **September 9th 2024 - Agenda Discussion**
    
-2) September 16th 2024 - Refresher on Reinforcement Learning, Deep RL, and Policy Gradient Methods (presented by Dr. Pingali)
+2) **September 16th 2024 - Refresher on Reinforcement Learning, Deep RL, and Policy Gradient Methods** (presented by Dr. Pingali)
 
-* Recommended reading: Barto and Sutton Chapter 13 [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Recommended reading: [Barto and Sutton Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Recommended materials: [DeepRL Bootcamp Lecture 4A](https://www.youtube.com/watch?v=S_gwYj1Q-44&t=2832s), [DeepRL Bootcamp Lecture 4B](https://www.youtube.com/watch?v=tqrcjHuNdmQ), [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs), [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
    
-3) September 23rd 2024 - Advanced Policy Gradient Methods (presented by Lain)
+3) **September 23rd 2024 - Advanced Policy Gradient Methods** (presented by Lain)
 
-* Recommended reading: Barto and Sutton Chapter 13 [pdf](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Recommended reading: [Barto and Sutton Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* Recommended materials: [DeepRL Bootcamp Lecture 5](https://www.youtube.com/watch?v=xvRrgxcpaHY&t=62s), [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs), [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
 
-4) September 30th 2024 - TBD (planned: Neural Networks) 
-   
-5) October 7th 2024 - TBD (planned: Applications of Neural Networks)
+4) **September 30th 2024 - TBD (planned: Neural Networks)**
 
-6) October 14th 2024 - TBD (planned: Transformers) (presented by Dr. Pingali)
+* Recommended background material: [Neural Networks and Learning Machines, Haykin, 3rd edition](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf) 
+  
+5) **October 7th 2024 - TBD (planned: Applications of Neural Networks)**
+
+6) **October 14th 2024 - TBD (planned: Transformers)** (presented by Dr. Pingali)
 
 * Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
   
-7) October 21st 2024 - Kolmogorov-Arnold Networks (KANs) (presented by Dr. Chatterjee)
+7) **October 21st 2024 - Kolmogorov-Arnold Networks (KANs)** (presented by Dr. Chatterjee)
 
 * Recommended reading: [KAN paper](https://arxiv.org/abs/2404.19756)
 
-8) October 28th 2024 - TBD (planned: Training LLMs) 
+8) **October 28th 2024 - TBD (planned: Training LLMs)**
 
 * Recommended reading: 
   
-9) November 4 2024 - TBD (planned: Evaluation/Interpretability of LLMs)
+9) **November 4 2024 - TBD (planned: Evaluation/Interpretability of LLMs)**
 
 * Recommended reading: 
 
-10) November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF)) (presented by Lain)
+10) **November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
 
 * Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
 
-11) November 18 2024 - TBD
+11) **November 18 2024 - TBD**
 
-12) November 25 2024 - TBD
+12) **November 25 2024 - TBD**
 
 
 ## Resources
