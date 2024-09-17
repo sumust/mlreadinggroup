@@ -8,6 +8,7 @@
 
 * Recommended reading: [Barto and Sutton Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 * Recommended materials: [DeepRL Bootcamp Lecture 4A](https://www.youtube.com/watch?v=S_gwYj1Q-44&t=2832s), [DeepRL Bootcamp Lecture 4B](https://www.youtube.com/watch?v=tqrcjHuNdmQ), [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs), [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Sept16-2024-Policy-Gradient-Talk.pdf)
    
 3) **September 23rd 2024 - Advanced Policy Gradient Methods** (presented by Lain)
 
