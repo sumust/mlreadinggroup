@@ -16,7 +16,7 @@
    
 5) October 7th 2024 - TBD (planned: Applications of Neural Networks)
 
-6) October 14th 2024 - TBD (planned: Transformers)
+6) October 14th 2024 - TBD (planned: Transformers) (presented by Dr. Pingali)
 
 * Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
   
@@ -32,7 +32,7 @@
 
 * Recommended reading: 
 
-10) November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))
+10) November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF)) (presented by Lain)
 
 * Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
 
