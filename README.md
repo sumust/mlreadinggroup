@@ -9,6 +9,7 @@
 * Recommended reading: [Barto and Sutton Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 * Recommended materials: [DeepRL Bootcamp Lecture 4A](https://www.youtube.com/watch?v=S_gwYj1Q-44&t=2832s), [DeepRL Bootcamp Lecture 4B](https://www.youtube.com/watch?v=tqrcjHuNdmQ), [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs), [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Sept16-2024-Policy-Gradient-Talk.pdf)
+* Background materials: [Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos](https://sumust.github.io/mlfortherestofus/)
    
 3) **September 23rd 2024 - Advanced Policy Gradient Methods** (presented by Lain)
 
@@ -56,10 +57,10 @@
 * DeepRL Bootcamp | [website](https://sites.google.com/view/deep-rl-bootcamp)
 * Pieter Abbeel's Foundations of DeepRL series | [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
 * Github repo with tutorials on RL with code and demos from Tim Miller, University of Queensland | [website](https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html)
+* Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos | [website](https://sumust.github.io/mlfortherestofus/)
 
 ### Neural Networks
 
 * Neural Networks and Learning Machines, Haykin, 3rd edition | [pdf](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf)
 * Dr. Pingali's Bertinoro Talk on Backpropagation | [pdf](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
-
-  
+* Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos | [website](https://sumust.github.io/mlfortherestofus/)
