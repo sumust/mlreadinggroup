@@ -21,7 +21,7 @@
 
 * Recommended background materials: [Neural Networks and Learning Machines, Haykin, 3rd edition](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf), [Dr. Pingali's Bertinoro Talk on Backpropagation](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
   
-5) **October 7th 2024 - TBD (planned: Applications of Neural Networks)**
+5) **October 7th 2024 - TBD (planned: Applications of Neural Networks)** 
 
 6) **October 14th 2024 - TBD (planned: Transformers)** (presented by Dr. Pingali)
 
@@ -35,7 +35,7 @@
 
 * Recommended reading: 
   
-9) **November 4 2024 - TBD (planned: Evaluation/Interpretability of LLMs)**
+9) **November 4 2024 - TBD (planned: TENTATIVE - Evaluation/Interpretability of LLMs)** (presented by Bozhi)
 
 * Recommended reading: 
 
