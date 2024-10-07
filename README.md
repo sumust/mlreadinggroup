@@ -22,21 +22,21 @@
 * Recommended background materials: [Neural Networks and Learning Machines, Haykin, 3rd edition](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf), [Dr. Pingali's Bertinoro Talk on Backpropagation](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/neural%20networks.pdf)
   
-5) **October 7th 2024 - Recurrent Neural Networks (RNNs) and Early Attention** 
+5) **October 7th 2024 - Recurrent Neural Networks (RNNs)** (presented by Dr. Pingali)
 
-6) **October 14th 2024 - TBD (planned: Transformers)** (presented by Dr. Pingali)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RNN%20presentation.pdf)
 
-* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
+6) **October 14th 2024 - ML Applications in Systems** (presented by Dr. Sadayappan)
   
 7) **October 21st 2024 - Kolmogorov-Arnold Networks (KANs)** (presented by Dr. Chatterjee)
 
 * Recommended reading: [KAN paper](https://arxiv.org/abs/2404.19756)
 
-8) **October 28th 2024 - TBD (planned: Training LLMs)**
+8) **October 28th 2024 - TBD (planned: Transformers)**
 
-* Recommended reading: 
+* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
   
-9) **November 4 2024 - TBD (planned: TENTATIVE - Evaluation/Interpretability of LLMs)** (presented by Bozhi)
+9) **November 4 2024 - TBD (planned: Training LLMs)** 
 
 * Recommended reading: 
 
