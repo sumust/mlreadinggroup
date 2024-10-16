@@ -26,9 +26,11 @@
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RNN%20presentation.pdf)
 
-6) **October 14th 2024 - ML Applications in Systems** (presented by Dr. Sadayappan)
+6) **October 14th 2024 - Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription** (presented by Lain)
+
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/ESP%20Presentation%20Final.pdf)
   
-7) **October 21st 2024 - Kolmogorov-Arnold Networks (KANs)** (presented by Dr. Chatterjee)
+7) **October 21st 2024 - TBD**
 
 * Recommended reading: [KAN paper](https://arxiv.org/abs/2404.19756)
 
