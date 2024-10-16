@@ -33,8 +33,6 @@
   
 7) **October 21st 2024 - TBD**
 
-* Recommended reading: [KAN paper](https://arxiv.org/abs/2404.19756)
-
 8) **October 28th 2024 - TBD (planned: Transformers)**
 
 * Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
