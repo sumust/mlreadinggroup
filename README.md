@@ -24,6 +24,7 @@
   
 5) **October 7th 2024 - Recurrent Neural Networks (RNNs)** (presented by Dr. Pingali)
 
+* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RNN%20presentation.pdf)
 
 6) **October 14th 2024 - Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription** (presented by Lain)
@@ -33,21 +34,17 @@
   
 7) **October 21st 2024 - TBD**
 
-8) **October 28th 2024 - TBD (planned: Transformers)**
+8) **October 28th 2024 - TBD**
 
-* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
+9) **November 4th 2024 - TBD** 
+
+10) **November 11th 2024 - Graph Neural Networks (GNN)** (presented by Sicong Che and Kate Zhang)
   
-9) **November 4 2024 - TBD (planned: Training LLMs)** 
-
-* Recommended reading: 
-
-10) **November 11 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
+11) **November 18th 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
 
 * Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
 
-11) **November 18 2024 - TBD**
-
-12) **November 25 2024 - TBD**
+12) **November 25th 2024 - TBD**
 
 
 ## Resources
