@@ -24,7 +24,6 @@
   
 5) **October 7th 2024 - Recurrent Neural Networks (RNNs)** (presented by Dr. Pingali)
 
-* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RNN%20presentation.pdf)
 
 6) **October 14th 2024 - Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription** (presented by Lain)
@@ -32,9 +31,11 @@
 * Recommended reading: [Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription by Francon et al. 2020](https://arxiv.org/abs/2002.05368)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/ESP%20Presentation%20Final.pdf)
   
-7) **October 21st 2024 - TBD**
+7) **October 21st 2024 - Attention Variants and Optimization** (presented by Kaizhao)
 
-8) **October 28th 2024 - TBD**
+* Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
+  
+8) **October 28th 2024 - Neural Network Applications in Systems** (presented by Dr. Sadayappan)
 
 9) **November 4th 2024 - TBD** 
 
