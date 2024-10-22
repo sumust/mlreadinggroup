@@ -38,13 +38,13 @@
   
 8) **October 28th 2024 - Neural Network Applications in Systems** (presented by Dr. Sadayappan)
 
-9) **November 4th 2024 - TBD** 
+9) **November 4th 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
+
+* Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
 
 10) **November 11th 2024 - Graph Neural Networks (GNN)** (presented by Sicong Che and Kate Zhang)
   
-11) **November 18th 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
-
-* Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
+11) **November 18th 2024 - TBD** (presented by Dr. Rossbach)
 
 12) **November 25th 2024 - TBD**
 
