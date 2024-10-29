@@ -36,7 +36,7 @@
 * Recommended reading: [Attention paper](https://arxiv.org/abs/1706.03762)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Attentions%20and%20How%20to%20Run%20Them%20Fast.pdf)
   
-8) **October 28th 2024 - Neural Network Applications in Systems** (presented by Dr. Sadayappan)
+8) **October 28th 2024 - ML for Compiler Optimization** (presented by Dr. Sadayappan)
 
 9) **November 4th 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
 
