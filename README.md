@@ -38,6 +38,8 @@
   
 8) **October 28th 2024 - ML for Compiler Optimization** (presented by Dr. Sadayappan)
 
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/CompilerOpt.pdf)
+
 9) **November 4th 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
 
 * Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
