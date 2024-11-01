@@ -7,19 +7,19 @@
 2) **September 16th 2024 - Refresher on Reinforcement Learning, Deep RL, and Policy Gradient Methods** (presented by Dr. Pingali)
 
 * Recommended reading: [Barto and Sutton Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
-* Recommended materials: [DeepRL Bootcamp Lecture 4A](https://www.youtube.com/watch?v=S_gwYj1Q-44&t=2832s), [DeepRL Bootcamp Lecture 4B](https://www.youtube.com/watch?v=tqrcjHuNdmQ), [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs), [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
-* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Sept16-2024-Policy-Gradient-Talk.pdf)
+* Recommended materials: [DeepRL Bootcamp Lecture 4A](https://www.youtube.com/watch?v=S_gwYj1Q-44&t=2832s); [DeepRL Bootcamp Lecture 4B](https://www.youtube.com/watch?v=tqrcjHuNdmQ); [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs); [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
 * Background materials: [Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos](https://sumust.github.io/mlfortherestofus/)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Sept16-2024-Policy-Gradient-Talk.pdf)
    
 3) **September 23rd 2024 - Advanced Policy Gradient Methods** (presented by Lain)
 
 * Recommended reading: [Barto and Sutton Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
-* Recommended materials: [DeepRL Bootcamp Lecture 5](https://www.youtube.com/watch?v=xvRrgxcpaHY&t=62s), [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs), [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
+* Recommended materials: [DeepRL Bootcamp Lecture 5](https://www.youtube.com/watch?v=xvRrgxcpaHY&t=62s); [David Silver Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs); [Pieter Abbeel Lecture 3](https://www.youtube.com/watch?v=AKbX1Zvo7r8)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Advanced%20Policy%20Gradient%20Methods.pdf)
 
 4) **September 30th 2024 - Gradient Computation in MLPs and KANs** (presented by Dr. Pingali and Lain)
 
-* Recommended background materials: [Neural Networks and Learning Machines, Haykin, 3rd edition](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf), [Dr. Pingali's Bertinoro Talk on Backpropagation](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
+* Recommended background materials: [Neural Networks and Learning Machines, Haykin, 3rd edition](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf); [Dr. Pingali's Bertinoro Talk on Backpropagation](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/neural%20networks.pdf)
   
 5) **October 7th 2024 - Recurrent Neural Networks (RNNs)** (presented by Dr. Pingali)
@@ -40,9 +40,9 @@
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/CompilerOpt.pdf)
 
-9) **November 4th 2024 - TBD (planned: Reinforcement Learning with Human Feedback (RLHF))** (presented by Lain)
+9) **November 4th 2024 - Reinforcement Learning with Human Feedback (RLHF)** (presented by Lain)
 
-* Recommended reading: [RLHF paper](https://arxiv.org/abs/2203.02155)
+* Recommended readings: [Training language models to follow instructions with human feedback (Ouyang et al. 2022)](https://arxiv.org/abs/2203.02155); [Learning to summarize from human feedback (Stiennon et al. 2020)](https://arxiv.org/abs/2009.01325); [Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023)](https://arxiv.org/pdf/1706.03741)
 
 10) **November 11th 2024 - Graph Neural Networks (GNN)** (presented by Sicong Che and Kate Zhang)
   
