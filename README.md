@@ -43,6 +43,7 @@
 9) **November 4th 2024 - Reinforcement Learning with Human Feedback (RLHF)** (presented by Lain)
 
 * Recommended readings: [Training language models to follow instructions with human feedback (Ouyang et al. 2022)](https://arxiv.org/abs/2203.02155); [Learning to summarize from human feedback (Stiennon et al. 2020)](https://arxiv.org/abs/2009.01325); [Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023)](https://arxiv.org/pdf/1706.03741)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RLHF%20-%20Reading%20Group%20Presentation.pdf)
 
 10) **November 11th 2024 - Graph Neural Networks (GNN)** (presented by Sicong Che and Kate Zhang)
   
