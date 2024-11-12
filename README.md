@@ -46,6 +46,8 @@
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RLHF%20-%20Reading%20Group%20Presentation.pdf)
 
 10) **November 11th 2024 - Graph Neural Networks (GNN)** (presented by Sicong Che and Kate Zhang)
+
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Graph%20Neural%20Networks.pdf)
   
 11) **November 18th 2024 - TBD** (presented by Dr. Rossbach)
 
