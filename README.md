@@ -49,9 +49,9 @@
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Graph%20Neural%20Networks.pdf)
   
-11) **November 18th 2024 - TBD** (presented by Dr. Rossbach)
+11) **November 18th 2024 - Talk by Dr. Risto Miikkulainen**
 
-12) **November 25th 2024 - TBD**
+12) **November 25th 2024 - TBD** (presented by Dr. Rossbach)
 
 
 ## Resources
