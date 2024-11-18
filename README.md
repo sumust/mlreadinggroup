@@ -51,7 +51,7 @@
   
 11) **November 18th 2024 - Talk by Dr. Risto Miikkulainen**
 
-* [Dr. Miikkulainen on the Lex Fridman Podcast (Neuroevolution and Evolutionary Computation)](https://www.youtube.com/watch?v=CY_LEa9xQtg)
+* Recommended background: [Dr. Miikkulainen on the Lex Fridman Podcast (Neuroevolution and Evolutionary Computation)](https://www.youtube.com/watch?v=CY_LEa9xQtg)
   
 12) **November 25th 2024 - TBD** (presented by Dr. Rossbach)
 
