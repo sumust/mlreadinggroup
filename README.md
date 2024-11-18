@@ -1,5 +1,7 @@
 # ML Reading Group 
 
+Website including the agenda, resources, and slides for each week for the FA2024 ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by Lain.
+
 ## Schedule
 
 1) **September 9th 2024 - Agenda Discussion**
