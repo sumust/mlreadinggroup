@@ -51,12 +51,11 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Graph%20Neural%20Networks.pdf)
   
-11) **November 18th 2024 - Talk by Dr. Risto Miikkulainen**
+11) **November 18th 2024 - Evolution and Applications to Systems by Dr. Risto Miikkulainen**
 
 * Recommended background: [Dr. Miikkulainen on the Lex Fridman Podcast (Neuroevolution and Evolutionary Computation)](https://www.youtube.com/watch?v=CY_LEa9xQtg)
   
-12) **November 25th 2024 - TBD** (presented by Dr. Rossbach)
-
+12) **November 25th 2024 - Learning Directed Operating System (LDOS)** (presented by Dr. Rossbach)
 
 ## Resources
 
