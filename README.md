@@ -57,6 +57,8 @@ Website including the agenda, resources, and slides for each week for the FA2024
   
 12) **November 25th 2024 - Learning Directed Operating System (LDOS)** (presented by Dr. Rossbach)
 
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/ldos-ml-reading-group.pptx.pdf)
+
 ## Resources
 
 ### Reinforcement Learning
