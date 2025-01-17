@@ -4,6 +4,8 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 ## Schedule
 
+### FALL 2024
+
 1) **September 9th 2024 - Agenda Discussion**
    
 2) **September 16th 2024 - Refresher on Reinforcement Learning, Deep RL, and Policy Gradient Methods** (presented by Dr. Pingali)
@@ -58,6 +60,15 @@ Website including the agenda, resources, and slides for each week for the FA2024
 12) **November 25th 2024 - Learning Directed Operating System (LDOS)** (presented by Dr. Rossbach)
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/ldos-ml-reading-group.pptx.pdf)
+
+### SPRING 2025
+
+1) **January 17th 2025 - Agenda Discussion**
+
+2) **January 24th 2025 - Evolutionary Policy Optimization by Lain**
+
+3) 
+
 
 ## Resources
 
