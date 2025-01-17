@@ -69,7 +69,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 3) **January 31st 2025 - Evolutionary Policy Optimization** (presented by Lain)
 
-4) **February 7th 2025 - TBD** (preesented by Kaizhao)
+4) **February 7th 2025 - TBD** (presented by Kaizhao)
 
 5) **February 14th 2025 - Scheduling Languages** (presented by Dr. Elster)
    
