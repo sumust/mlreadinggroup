@@ -65,10 +65,23 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 1) **January 17th 2025 - Agenda Discussion**
 
-2) **January 24th 2025 - Evolutionary Policy Optimization** (presented by Lain)
+2) **January 24th 2025 - Kernel MLOps** (presented by Dr. Rossbach)
 
-3) 
+3) **January 31st 2025 - Evolutionary Policy Optimization** (presented by Lain)
 
+4) **February 7th 2025 - TBD** (preesented by Kaizhao)
+
+5) **February 14th 2025 - Scheduling Languages** (presented by Dr. Elster)
+   
+* [Paper](https://arxiv.org/pdf/2410.19927)
+  
+6) **February 28th 2025 - RL for Circuitry** (presented by Kayvan)
+
+7) **March 7th 2025 - Attention Mechanisms** (presented by Bozhi)
+
+8) **March 14th 2025 - ES as a Scalable Alternative to RL** (presented by Dr. Pingali)
+
+9) **March 28th - TBD**
 
 ## Resources
 
