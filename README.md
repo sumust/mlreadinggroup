@@ -65,7 +65,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 1) **January 17th 2025 - Agenda Discussion**
 
-2) **January 24th 2025 - Evolutionary Policy Optimization by Lain**
+2) **January 24th 2025 - Evolutionary Policy Optimization** (presented by Lain)
 
 3) 
 
