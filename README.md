@@ -67,6 +67,9 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 2) **January 24th 2025 - Kernel MLOps** (presented by Dr. Rossbach)
 
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/kernmlops-ml-reading-group-v2.pptx.pdf)
+* [GitHub repo](https://github.com/utcs-scea/KernMLOps)
+  
 3) **January 31st 2025 - Evolutionary Policy Optimization** (presented by Lain)
 
 4) **February 7th 2025 - TBD** (presented by Kaizhao)
