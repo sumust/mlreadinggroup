@@ -74,19 +74,23 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 * [Slides](https://docs.google.com/presentation/d/1BcGW5YtWa1WxjHGap2hhv8iRfgpEZCm46uafVDC-qN0/edit?usp=sharing)
   
-4) **February 7th 2025 - TBD** (presented by Kaizhao)
+4) **February 7th 2025 - Cautious Optimizers** (presented by Kaizhao)
 
+* [Slides](https://docs.google.com/presentation/d/1qItZBomo3AerthStYExsdJbUsi1E5xTwLu4OY7DciiU/edit?usp=sharing)
+  
 5) **February 14th 2025 - Scheduling Languages** (presented by Dr. Elster)
    
 * [Paper](https://arxiv.org/pdf/2410.19927)
   
-6) **February 28th 2025 - RL for Circuitry** (presented by Kayvan)
+6) **February 21st 2025 - Tensor Evolution** (presented by Samarth)
 
-7) **March 7th 2025 - Attention Mechanisms** (presented by Bozhi)
+7) **February 28th 2025 - RL for Circuitry** (presented by Kayvan)
 
-8) **March 14th 2025 - ES as a Scalable Alternative to RL** (presented by Dr. Pingali)
+8) **March 7th 2025 - Attention Mechanisms** (presented by Bozhi)
 
-9) **March 28th - TBD**
+9) **March 14th 2025 - ES as a Scalable Alternative to RL** (presented by Dr. Pingali)
+
+10) **March 28th - TBD**
 
 ## Resources
 
