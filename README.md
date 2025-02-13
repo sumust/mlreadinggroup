@@ -94,9 +94,11 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 * [Paper](https://arxiv.org/abs/1703.03864)
 
-10) **March 28th - TBD**
+10) **March 21st - Spring Break - TBD**
 
-11) **TBD- Scheduling Languages** (presented by Dr. Elster)
+11) **March 28th - TBD**
+
+12) **TBD- Scheduling Languages** (presented by Dr. Elster)
    
 * [Paper](https://arxiv.org/pdf/2410.19927)
 
