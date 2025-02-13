@@ -78,19 +78,27 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 * [Slides](https://docs.google.com/presentation/d/1qItZBomo3AerthStYExsdJbUsi1E5xTwLu4OY7DciiU/edit?usp=sharing)
   
-5) **February 14th 2025 - Scheduling Languages** (presented by Dr. Elster)
-   
-* [Paper](https://arxiv.org/pdf/2410.19927)
+5) **February 14th 2025 - PrefixRL: Optimization of Parallel Prefix Circuits using Deep Reinforcement Learning** (presented by Kayvan) 
+
+* [Paper](https://arxiv.org/pdf/2205.07000)
   
 6) **February 21st 2025 - Tensor Evolution** (presented by Samarth)
 
-7) **February 28th 2025 - RL for Circuitry** (presented by Kayvan)
+7) **February 28th 2025 - Attention Mechanisms** (presented by Bozhi)
 
-8) **March 7th 2025 - Attention Mechanisms** (presented by Bozhi)
+8) **March 7th 2025 - Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks by Dr. Roberto Martín-Martín**
+
+*[Paper](https://arxiv.org/abs/1906.08880)
 
 9) **March 14th 2025 - ES as a Scalable Alternative to RL** (presented by Dr. Pingali)
 
+*[Paper](https://arxiv.org/abs/1703.03864)
+
 10) **March 28th - TBD**
+
+11) **TBD- Scheduling Languages** (presented by Dr. Elster)
+   
+* [Paper](https://arxiv.org/pdf/2410.19927)
 
 ## Resources
 
