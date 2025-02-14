@@ -81,6 +81,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 5) **February 14th 2025 - PrefixRL: Optimization of Parallel Prefix Circuits using Deep Reinforcement Learning** (presented by Kayvan) 
 
 * [Paper](https://arxiv.org/pdf/2205.07000)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/UTAustinPOTX.pdf)
   
 6) **February 21st 2025 - Tensor Evolution** (presented by Samarth)
 
