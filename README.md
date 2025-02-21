@@ -85,13 +85,13 @@ Website including the agenda, resources, and slides for each week for the FA2024
   
 6) **February 21st 2025 - Tensor Evolution** (presented by Samarth)
 
-7) **February 28th 2025 - Attention Mechanisms** (presented by Bozhi)
+7) **February 28TH 2025 - Monte Carlo Methods** (presented by Dr. Pingali)
 
 8) **March 7th 2025 - Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks by Dr. Roberto Martín-Martín**
 
 * [Paper](https://arxiv.org/abs/1906.08880)
 
-9) **March 14th 2025 - ES as a Scalable Alternative to RL** (presented by Dr. Pingali)
+9) **March 14th 2025 - Attention Mechanisms** (presented by Bozhi) 
 
 * [Paper](https://arxiv.org/abs/1703.03864)
 
