@@ -90,6 +90,8 @@ Website including the agenda, resources, and slides for each week for the FA2024
   
 7) **February 28th 2025 - Monte Carlo Methods** (presented by Dr. Pingali)
 
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/MonteCarloMethod.pptx)
+  
 8) **March 7th 2025 - Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks by Dr. Roberto Martín-Martín**
 
 * [Paper](https://arxiv.org/abs/1906.08880)
