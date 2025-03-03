@@ -88,7 +88,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 * [Paper](https://arxiv.org/abs/2502.03402)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/C4ML-2025.pdf)
   
-7) **February 28th 2025 - Monte Carlo Methods** (presented by Dr. Pingali)
+7) **February 28th 2025 - Monte Carlo Methods for ​Estimating ​Expectations ​and ​Gradients of Expectations​ in​ Reinforcement Learning​** (presented by Dr. Pingali)
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/MonteCarloMethod.pptx)
   
