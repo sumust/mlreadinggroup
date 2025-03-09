@@ -103,8 +103,8 @@ Website including the agenda, resources, and slides for each week for the FA2024
 10) **March 21st - Spring Break - TBD**
 11) **March 28th - TBD**
 
-TBD:
-* **TBD- Scheduling Languages** (presented by Dr. Elster) -- [Paper](https://arxiv.org/pdf/2410.19927)
+#### **Dates TBD:**
+* **Scheduling Languages** (presented by Dr. Elster) -- [Paper](https://arxiv.org/pdf/2410.19927)
 * **March 14th 2025 - Attention Mechanisms** (presented by Bozhi) 
 
 ## Resources
