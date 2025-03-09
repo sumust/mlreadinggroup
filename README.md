@@ -92,7 +92,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/MonteCarloMethod.pptx)
   
-8) **March 7th 2025 Imitation Learning (presented by Lain)**
+8) **March 7th 2025 Imitation Learning** (presented by Lain)
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Imitation%20Learning.pdf)
   
