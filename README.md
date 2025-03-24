@@ -96,17 +96,27 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Imitation%20Learning.pdf)
   
-9) **March 7th 2025 - Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks by Dr. Roberto Martín-Martín**
+9) **March 7th 2025 - Reinforcement and Imitation Learning to Control Contact-Rich Interaction by Dr. Roberto Martín-Martín**
 
-* [Paper](https://arxiv.org/abs/1906.08880)
+* [VICES Paper](https://arxiv.org/abs/1906.08880)
+* [ScrewMimic Paper](https://arxiv.org/abs/2405.03666)
+* [BaRiFlex Paper](https://arxiv.org/abs/2312.05323)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/2025_03_UT_KeshavsGroup_RMM.pdf)
   
-10) **March 21st - Spring Break - TBD**
+10) **March 21st 2025 - Spring Break - No Meeting**
 
-11) **March 28th - TBD**
+11) **March 28th 2025 - No Meeting**
 
-#### **Dates TBD:**
-* **Scheduling Languages** (presented by Dr. Elster) -- [Paper](https://arxiv.org/pdf/2410.19927)
-* **March 14th 2025 - Attention Mechanisms** (presented by Bozhi) 
+12) **April 4th 2025 - Attention Mechanisms** (presented by Bozhi)
+
+13) **April 11th 2025 - Scheduling Languages** (presented by Dr. Elster)
+
+* [Paper](https://arxiv.org/pdf/2410.19927)
+  
+14) **April 18th 2025 - TBD**
+
+15) **April 25th 2025 - TBD**
+
 
 ## Resources
 
