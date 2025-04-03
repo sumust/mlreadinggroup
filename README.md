@@ -107,15 +107,23 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 11) **March 28th 2025 - No Meeting**
 
-12) **April 4th 2025 - Attention Mechanisms** (presented by Bozhi)
+12) **April 4th 2025 - Physics-Informed Neural Networks** (by Dr. Maciej Paszynski)
+
+* [Physics-informed machine learning (Karniadakis et al. 2021)](https://www.nature.com/articles/s42254-021-00314-513))
+* Dr. Paszynski's papers on PINNs:
+   *  [Collocation-based Robust Variational Physics-Informed Neural Networks (CRVPINN 2024)](https://arxiv.org/abs/2401.02300)
+   *  [Robust Variational Physics-Informed Neural Networks (Computer Methods in Applied Mechanics and Engineering 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0045782524001609)
+*  [hp-VPINNs: Variational physics-informed neural networks with domain decomposition (Kharazmi  et al. 2021)](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
 
 13) **April 11th 2025 - Scheduling Languages** (presented by Dr. Elster)
 
 * [Paper](https://arxiv.org/pdf/2410.19927)
   
-14) **April 18th 2025 - TBD**
+14) **April 18th 2025 - Attention Mechanisms** (presented by Bozhi)
 
-15) **April 25th 2025 - TBD**
+15) **April 25th 2025 - TBD** (presented by Dr. Pingali)
+
+16) **May 2nd 2025 - TBD** (presented by Dr. Pingali)
 
 
 ## Resources
