@@ -109,7 +109,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 12) **April 4th 2025 - Physics-Informed Neural Networks** (by Dr. Maciej Paszynski)
 
-* [Physics-informed machine learning (Karniadakis et al. 2021)](https://www.nature.com/articles/s42254-021-00314-513))
+* [Physics-informed machine learning (Karniadakis et al. 2021)](https://www.nature.com/articles/s42254-021-00314-513)
 * Dr. Paszynski's papers on PINNs:
    *  [Collocation-based Robust Variational Physics-Informed Neural Networks (CRVPINN 2024)](https://arxiv.org/abs/2401.02300)
    *  [Robust Variational Physics-Informed Neural Networks (Computer Methods in Applied Mechanics and Engineering 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0045782524001609)
