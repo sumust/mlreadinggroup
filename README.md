@@ -114,6 +114,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
    *  [Collocation-based Robust Variational Physics-Informed Neural Networks (CRVPINN 2024)](https://arxiv.org/abs/2401.02300)
    *  [Robust Variational Physics-Informed Neural Networks (Computer Methods in Applied Mechanics and Engineering 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0045782524001609)
 *  [hp-VPINNs: Variational physics-informed neural networks with domain decomposition (Kharazmi  et al. 2021)](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
+*  [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RPINN_Talk_IPPT%20(28).pdf)
 
 13) **April 11th 2025 - Scheduling Languages** (presented by Dr. Elster)
 
