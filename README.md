@@ -121,8 +121,11 @@ Website including the agenda, resources, and slides for each week for the FA2024
 * [Paper](https://arxiv.org/pdf/2410.19927)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/elster-sched-lang-past-present-future.pdf)
   
-14) **April 18th 2025 - Attention Mechanisms** (presented by Bozhi)
+14) **April 18th 2025 - AI Coding Agents for Hardware-Optimized Code** (presented by Dhairya, Irene, Pranoy)
 
+* [KernelBench: Can LLMs Write Efficient GPU Kernels?]()
+* [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/abs/2303.04910)
+  
 15) **April 25th 2025 - TBD** (presented by Dr. Pingali)
 
 16) **May 2nd 2025 - TBD** (presented by Dr. Pingali)
