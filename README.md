@@ -116,9 +116,10 @@ Website including the agenda, resources, and slides for each week for the FA2024
 *  [hp-VPINNs: Variational physics-informed neural networks with domain decomposition (Kharazmi  et al. 2021)](https://www.sciencedirect.com/science/article/pii/S0045782520307325)
 *  [Slides](https://github.com/sumust/mlreadinggroup/blob/main/RPINN_Talk_IPPT%20(28).pdf)
 
-13) **April 11th 2025 - Scheduling Languages** (presented by Dr. Elster)
+13) **April 11th 2025 - Scheduling Languages: Past, Present & Future** (presented by Dr. Elster)
 
 * [Paper](https://arxiv.org/pdf/2410.19927)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/elster-sched-lang-past-present-future.pdf)
   
 14) **April 18th 2025 - Attention Mechanisms** (presented by Bozhi)
 
