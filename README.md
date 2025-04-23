@@ -127,7 +127,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 * [Baldur: Whole-Proof Generation and Repair with Large Language Models](https://arxiv.org/abs/2303.04910)
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/380C%20Paper%20Presentation.pdf)
   
-15) **April 25th 2025 - TBD** (presented by Dr. Pingali)
+15) **April 25th 2025 - The world's simplest presentation of policy-gradient methods** (presented by Dr. Pingali)
 
 16) **May 2nd 2025 - TBD** (presented by Dr. Pingali)
 
