@@ -133,6 +133,15 @@ Website including the agenda, resources, and slides for each week for the FA2024
   
 16) **May 2nd 2025 - The world's simplest presentation of baseline methods in policy-gradients** (presented by Dr. Pingali)
 
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/baseline.pptx)
+
+### SUMMER 2025
+
+17) **May 9th 2025 - Trust Region Methods (TBD)**
+
+18) TBD
+19) TBD
+20) TBD 
 
 ## Resources
 
