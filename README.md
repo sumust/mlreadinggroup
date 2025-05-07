@@ -137,7 +137,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 ### SUMMER 2025
 
-17) **May 9th 2025 - Trust Region Methods (TBD)**
+17) **May 9th 2025 - Measure once, optimize twice: trust regions and step-size restrictions in policy gradient methods** (presented by William Ruys)
 
 18) TBD
 19) TBD
