@@ -141,7 +141,9 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 18) **May 16th 2025 - Measure once, optimize twice: trust regions and step-size restrictions in policy gradient methods** (presented by William Ruys)
 
-19) TBD
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/TrustRegionMethods.pptx)
+  
+19) **May 23rd 2025 - Agenda for Summer** 
 
 20) TBD 
 
