@@ -6,7 +6,7 @@ Website including the agenda, resources, and slides for each week for the FA2024
 
 ### FALL 2024
 
-[Schedule and Slides](https://github.com/sumust/mlreadinggroup/blob/main/fall2024.md)
+[Schedule and Slides](https://sumust.github.io/mlreadinggroup/fall2024/)
 
 ### SPRING 2025
 
