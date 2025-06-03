@@ -1,3 +1,9 @@
+---
+layout: default
+title: Spring 2025 Reading Group Schedule
+permalink: /spring2025/
+---
+
 ### SPRING 2025
 
 1) **January 17th 2025 - Agenda Discussion**
