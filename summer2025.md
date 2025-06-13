@@ -6,9 +6,9 @@ permalink: /summer2025/
 
 ### SUMMER 2025
 
-1) **May 23rd 2025 - Agenda for Summer** 
+1) **May 23rd - Agenda for Summer** 
 
-2) **May 30th 2025 - Intro to Pong and Gymnasium** (presented by Lain)
+2) **May 30th - Intro to Pong and Gymnasium** (presented by Lain)
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Intro%20to%20Pong%2C%20Gym.pdf)
 * [Code](https://colab.research.google.com/drive/16_dKbAFmrOyfHyDp9sQkHwVXCQ9BIg_x?usp=sharing)
@@ -29,5 +29,6 @@ permalink: /summer2025/
 6) **June 27th - Gradient Estimation Using Stochastic Computation Graphs** (presented by Dr. Pingali)
 * [Paper](https://arxiv.org/abs/1506.05254)
 
-7) **TBA**
+7) **July 4th - NO MEETING**
+
 8) **TBA**
