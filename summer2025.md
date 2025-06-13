@@ -26,4 +26,8 @@ permalink: /summer2025/
 5) **June 20th - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review** (presented by Will)
 * [Paper](https://arxiv.org/abs/1805.00909)
 
-6)  
+6) **June 27th - Gradient Estimation Using Stochastic Computation Graphs** (presented by Dr. Pingali)
+* [Paper](https://arxiv.org/abs/1506.05254)
+
+7) **TBA**
+8) **TBA**
