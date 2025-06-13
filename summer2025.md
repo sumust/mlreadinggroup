@@ -6,20 +6,24 @@ permalink: /summer2025/
 
 ### SUMMER 2025
 
-1) **May 16th 2025 - Measure once, optimize twice: trust regions and step-size restrictions in policy gradient methods** (presented by William Ruys)
+1) **May 23rd 2025 - Agenda for Summer** 
 
-* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/TrustRegionMethods.pptx)
-  
-2) **May 23rd 2025 - Agenda for Summer** 
-
-3) **May 30th 2025 - Intro to Pong and Gymnasium** (presented by Lain)
+2) **May 30th 2025 - Intro to Pong and Gymnasium** (presented by Lain)
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Intro%20to%20Pong%2C%20Gym.pdf)
 * [Code](https://colab.research.google.com/drive/16_dKbAFmrOyfHyDp9sQkHwVXCQ9BIg_x?usp=sharing)
 * [Karpathy's write-up on Pong](https://karpathy.github.io/2016/05/31/rl/)
   
-4) **June 6th - Human-level control through deep reinforcement learning**
+3) **June 6th - Human-level control through deep reinforcement learning** (presented by Nolan)
 
 * [DQN Paper](https://www.nature.com/articles/nature14236)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/Deep%20Q-Networks%20Presentation.pdf)
 
-5) **June 13th - TBD** 
+4) **June 13th - Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations** (presented by Lain)
+* [Paper](https://arxiv.org/abs/1709.10087)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/dexterous%20manipulation.pdf)
+  
+5) **June 20th - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review** (presented by Will)
+* [Paper](https://arxiv.org/abs/1805.00909)
+
+6)  
