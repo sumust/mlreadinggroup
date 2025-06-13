@@ -77,3 +77,7 @@ permalink: /spring2025/
 16) **May 2nd 2025 - The world's simplest presentation of baseline methods in policy-gradients** (presented by Dr. Pingali)
 
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/baseline.pptx)
+
+17) **May 16th 2025 - Measure once, optimize twice: trust regions and step-size restrictions in policy gradient methods** (presented by William Ruys)
+
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/TrustRegionMethods.pptx)
