@@ -26,8 +26,9 @@ permalink: /summer2025/
 5) **June 20th - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review** (presented by Will)
 * [Paper](https://arxiv.org/abs/1805.00909)
 
-6) **June 27th - Gradient Estimation Using Stochastic Computation Graphs** (presented by Dr. Pingali)
-* [Paper](https://arxiv.org/abs/1506.05254)
+6) **June 27th - Implementing Reinforcement Learning from Human Feedback (RLHF): Best Practices and Challenges** (presented by Lain)
+* [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
+* [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217)
 
 7) **July 4th - NO MEETING**
 
