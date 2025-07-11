@@ -27,9 +27,18 @@ permalink: /summer2025/
 * [Paper](https://arxiv.org/abs/1805.00909)
 
 6) **June 27th - Implementing Reinforcement Learning from Human Feedback (RLHF): Best Practices and Challenges** (presented by Lain)
+* [Slides](https://utexas-my.sharepoint.com/:p:/g/personal/zsm424_my_utexas_edu/EagBBEuFivVBsOtfOTDPtbcBlUpNzgLmjKGZy2XBWMRQCg?e=7fPRYf) 
 * [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
 * [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217)
 
 7) **July 4th - NO MEETING**
 
-8) **TBA**
+8) **July 11th - Asynchronous Methods for Deep Reinforcement Learning**
+*  [Paper](https://arxiv.org/pdf/1602.01783)
+  
+9) 
+10) 
+
+
+  
+12) 
