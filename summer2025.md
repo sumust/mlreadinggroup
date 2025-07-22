@@ -38,11 +38,11 @@ permalink: /summer2025/
 *  [Paper](https://arxiv.org/pdf/1602.01783)
 *  [Slides](https://github.com/sumust/mlreadinggroup/blob/main/AsynchronousRL.pdf)
   
-9) **MuJoCo Playground** (presented by Marie Elster)
+9) **July 18th - MuJoCo Playground** (presented by Marie Elster)
 * [Paper](https://arxiv.org/abs/2502.08844)
 * [Slides]()
   
-10) **TBA** (presented by Pranoy)
+10) **July 25th - TBA** (presented by Pranoy)
 11) 
 12) 
 
