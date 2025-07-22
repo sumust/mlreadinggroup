@@ -43,9 +43,10 @@ permalink: /summer2025/
 * [Slides]()
   
 10) **July 25th - TBA** (presented by Pranoy)
-11) 
+
+11) **August 1st - Mastering Diverse Domains through World Models (Hafner et al. 2023)** (presented by Will)
+* [Paper](https://arxiv.org/abs/2301.04104)
+
 12) 
-
-
   
 13) 
