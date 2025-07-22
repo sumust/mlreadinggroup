@@ -25,6 +25,7 @@ permalink: /summer2025/
   
 5) **June 20th - Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review** (presented by Will)
 * [Paper](https://arxiv.org/abs/1805.00909)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/TrustRegionMethods.pptx)
 
 6) **June 27th - Implementing Reinforcement Learning from Human Feedback (RLHF): Best Practices and Challenges** (presented by Lain)
 * [Slides](https://utexas-my.sharepoint.com/:p:/g/personal/zsm424_my_utexas_edu/EagBBEuFivVBsOtfOTDPtbcBlUpNzgLmjKGZy2XBWMRQCg?e=7fPRYf) 
@@ -35,10 +36,16 @@ permalink: /summer2025/
 
 8) **July 11th - Asynchronous Methods for Deep Reinforcement Learning**
 *  [Paper](https://arxiv.org/pdf/1602.01783)
+*  [Slides](https://github.com/sumust/mlreadinggroup/blob/main/AsynchronousRL.pdf)
   
-9) 
-10) 
-
-
+9) **MuJoCo Playground** (presented by Marie Elster)
+* [Paper](https://arxiv.org/abs/2502.08844)
+* [Slides]()
   
+10) **TBA** (presented by Pranoy)
+11) 
 12) 
+
+
+  
+13) 
