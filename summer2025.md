@@ -34,7 +34,7 @@ permalink: /summer2025/
 
 7) **July 4th - NO MEETING**
 
-8) **July 11th - Asynchronous Methods for Deep Reinforcement Learning**
+8) **July 11th - Asynchronous Methods for Deep Reinforcement Learning** (presented by Dr. Pingali)
 *  [Paper](https://arxiv.org/pdf/1602.01783)
 *  [Slides](https://github.com/sumust/mlreadinggroup/blob/main/AsynchronousRL.pdf)
   
