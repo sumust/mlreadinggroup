@@ -40,13 +40,15 @@ permalink: /summer2025/
   
 9) **July 18th - MuJoCo Playground** (presented by Marie Elster)
 * [Paper](https://arxiv.org/abs/2502.08844)
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/MuJoCo%20Playground_Marie%20Elster.pdf)
+  
+10) **July 25th - Mastering Diverse Domains through World Models (Hafner et al. 2023)** (presented by Will)
+* [Paper](https://arxiv.org/abs/2301.04104)
 * [Slides]()
   
-10) **July 25th - TBA** (presented by Pranoy)
+11) **August 1st - TBA** (presented by Pranoy)
 
-11) **August 1st - Mastering Diverse Domains through World Models (Hafner et al. 2023)** (presented by Will)
-* [Paper](https://arxiv.org/abs/2301.04104)
-
-12) 
+12) **August 8th - AlphaEvolve** (presented by Lain)
   
-13) 
+13) **August 15th - Deep Reinforcement Learning from Human Preferences (Christiano et al. 2017)** (presented by Lain)
+
