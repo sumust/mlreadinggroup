@@ -44,7 +44,7 @@ permalink: /summer2025/
   
 10) **July 25th - Mastering Diverse Domains through World Models (Hafner et al. 2023)** (presented by Will)
 * [Paper](https://arxiv.org/abs/2301.04104)
-* [Slides]()
+* [Slides](https://github.com/sumust/mlreadinggroup/blob/main/dreamer.pdf)
   
 11) **August 1st - TBA** (presented by Pranoy)
 
