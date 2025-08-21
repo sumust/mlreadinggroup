@@ -51,7 +51,3 @@ permalink: /summer2025/
 * [Slides](https://github.com/sumust/mlreadinggroup/blob/main/AlphaEvolve%20Slides.pdf)
 * [FunSearch Paper (2023)](https://www.nature.com/articles/s41586-023-06924-6)
   
-12) **August 8th - Multi-GPU Scheduling using RL** (presented by Will)
-    
-13) **August 15th - TBA** (presented by Pranoy)
-
