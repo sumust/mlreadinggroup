@@ -1,0 +1,91 @@
+semester: "Spring 2026"
+year: 2026
+meeting_info:
+  time: "2-3:30 PM on Fridays"
+  location: "POB 4.116"
+  zoom_link: "https://utexas.zoom.us/j/85193616077"
+sessions:
+  - date: "January 16th 2026"
+    title: "Agenda Discussion"
+    presenter: ""
+    type: "planning"
+    
+  - date: "January 23rd 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "January 30th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "February 6th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "February 13th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "February 20th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "February 27th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "March 6th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "March 13th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "March 20th 2026"
+    title: "Spring Break - No Meeting"
+    presenter: ""
+    type: "break"
+    
+  - date: "March 27th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "April 3rd 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "April 10th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "April 17th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "April 24th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "May 1st 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"
+    
+  - date: "May 8th 2026"
+    title: "TBD"
+    presenter: ""
+    type: "tbd"

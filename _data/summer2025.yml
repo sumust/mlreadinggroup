@@ -1,0 +1,99 @@
+semester: "Summer 2025"
+year: 2025
+sessions:
+  - date: "May 23rd 2025"
+    title: "Agenda for Summer"
+    presenter: ""
+    type: "planning"
+    
+  - date: "May 30th 2025"
+    title: "Intro to Pong and Gymnasium"
+    presenter: "Lain"
+    type: "presentation"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Intro%20to%20Pong%2C%20Gym.pdf"
+    resources:
+      - title: "Code"
+        url: "https://colab.research.google.com/drive/16_dKbAFmrOyfHyDp9sQkHwVXCQ9BIg_x?usp=sharing"
+      - title: "Karpathy's write-up on Pong"
+        url: "https://karpathy.github.io/2016/05/31/rl/"
+    
+  - date: "June 6th 2025"
+    title: "Human-level control through deep reinforcement learning"
+    presenter: "Nolan"
+    type: "presentation"
+    papers:
+      - title: "DQN Paper"
+        url: "https://www.nature.com/articles/nature14236"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Deep%20Q-Networks%20Presentation.pdf"
+    
+  - date: "June 13th 2025"
+    title: "Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations"
+    presenter: "Lain"
+    type: "presentation"
+    papers:
+      - title: "Dexterous Manipulation Paper"
+        url: "https://arxiv.org/abs/1709.10087"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/dexterous%20manipulation.pdf"
+    
+  - date: "June 20th 2025"
+    title: "Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review"
+    presenter: "Will"
+    type: "presentation"
+    papers:
+      - title: "RL as Probabilistic Inference Paper"
+        url: "https://arxiv.org/abs/1805.00909"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/TrustRegionMethods.pptx"
+    
+  - date: "June 27th 2025"
+    title: "Implementing Reinforcement Learning from Human Feedback (RLHF): Best Practices and Challenges"
+    presenter: "Lain"
+    type: "presentation"
+    papers:
+      - title: "Training language models to follow instructions with human feedback"
+        url: "https://arxiv.org/pdf/2203.02155"
+      - title: "Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback"
+        url: "https://arxiv.org/pdf/2307.15217"
+    slides: "https://utexas-my.sharepoint.com/:p:/g/personal/zsm424_my_utexas_edu/EagBBEuFivVBsOtfOTDPtbcBlUpNzgLmjKGZy2XBWMRQCg?e=7fPRYf"
+    
+  - date: "July 4th 2025"
+    title: "NO MEETING"
+    presenter: ""
+    type: "break"
+    
+  - date: "July 11th 2025"
+    title: "Asynchronous Methods for Deep Reinforcement Learning"
+    presenter: "Dr. Pingali"
+    type: "presentation"
+    papers:
+      - title: "Asynchronous Methods Paper"
+        url: "https://arxiv.org/pdf/1602.01783"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/AsynchronousRL.pdf"
+    
+  - date: "July 18th 2025"
+    title: "MuJoCo Playground"
+    presenter: "Marie Elster"
+    type: "presentation"
+    papers:
+      - title: "MuJoCo Playground Paper"
+        url: "https://arxiv.org/abs/2502.08844"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/MuJoCo%20Playground_Marie%20Elster.pdf"
+    
+  - date: "July 25th 2025"
+    title: "Mastering Diverse Domains through World Models (Hafner et al. 2023)"
+    presenter: "Will"
+    type: "presentation"
+    papers:
+      - title: "Dreamer Paper"
+        url: "https://arxiv.org/abs/2301.04104"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/dreamer.pdf"
+    
+  - date: "August 1st 2025"
+    title: "AlphaEvolve"
+    presenter: "Lain"
+    type: "presentation"
+    papers:
+      - title: "AlphaEvolve Paper"
+        url: "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf"
+      - title: "FunSearch Paper (2023)"
+        url: "https://www.nature.com/articles/s41586-023-06924-6"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/AlphaEvolve%20Slides.pdf"
