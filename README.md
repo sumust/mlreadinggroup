@@ -19,6 +19,10 @@ Website including the weekly agenda, resources, and slides for Fall 2024, Spring
 
 [Schedule and Slides](https://sumust.github.io/mlreadinggroup/summer2025/)
 
+### SPRING 2026
+
+[Schedule and Slides](https://sumust.github.io/mlreadinggroup/spring2026/)
+
 ## Resources
 
 ### Reinforcement Learning
