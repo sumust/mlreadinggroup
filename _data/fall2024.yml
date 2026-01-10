@@ -1,0 +1,118 @@
+semester: "Fall 2024"
+year: 2024
+sessions:
+  - date: "September 9th 2024"
+    title: "Agenda Discussion"
+    presenter: ""
+    type: "planning"
+    
+  - date: "September 16th 2024"
+    title: "Refresher on Reinforcement Learning, Deep RL, and Policy Gradient Methods"
+    presenter: "Dr. Pingali"
+    type: "presentation"
+    papers:
+      - title: "Barto and Sutton Chapter 13"
+        url: "https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf"
+    materials:
+      - title: "DeepRL Bootcamp Lecture 4A"
+        url: "https://www.youtube.com/watch?v=S_gwYj1Q-44&t=2832s"
+      - title: "DeepRL Bootcamp Lecture 4B"
+        url: "https://www.youtube.com/watch?v=tqrcjHuNdmQ"
+      - title: "David Silver Lecture 7"
+        url: "https://www.youtube.com/watch?v=KHZVXao4qXs"
+      - title: "Pieter Abbeel Lecture 3"
+        url: "https://www.youtube.com/watch?v=AKbX1Zvo7r8"
+    background:
+      - title: "Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos"
+        url: "https://sumust.github.io/mlfortherestofus/"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Sept16-2024-Policy-Gradient-Talk.pdf"
+    
+  - date: "September 23rd 2024"
+    title: "Advanced Policy Gradient Methods"
+    presenter: "Lain"
+    type: "presentation"
+    papers:
+      - title: "Barto and Sutton Chapter 13"
+        url: "https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf"
+    materials:
+      - title: "DeepRL Bootcamp Lecture 5"
+        url: "https://www.youtube.com/watch?v=xvRrgxcpaHY&t=62s"
+      - title: "David Silver Lecture 7"
+        url: "https://www.youtube.com/watch?v=KHZVXao4qXs"
+      - title: "Pieter Abbeel Lecture 3"
+        url: "https://www.youtube.com/watch?v=AKbX1Zvo7r8"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Advanced%20Policy%20Gradient%20Methods.pdf"
+    
+  - date: "September 30th 2024"
+    title: "Gradient Computation in MLPs and KANs"
+    presenter: "Dr. Pingali and Lain"
+    type: "presentation"
+    materials:
+      - title: "Neural Networks and Learning Machines, Haykin, 3rd edition"
+        url: "https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf"
+      - title: "Dr. Pingali's Bertinoro Talk on Backpropagation"
+        url: "https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/neural%20networks.pdf"
+    
+  - date: "October 7th 2024"
+    title: "Recurrent Neural Networks (RNNs)"
+    presenter: "Dr. Pingali"
+    type: "presentation"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/RNN%20presentation.pdf"
+    
+  - date: "October 14th 2024"
+    title: "Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription"
+    presenter: "Lain"
+    type: "presentation"
+    papers:
+      - title: "Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription by Francon et al. 2020"
+        url: "https://arxiv.org/abs/2002.05368"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/ESP%20Presentation%20Final.pdf"
+    
+  - date: "October 21st 2024"
+    title: "Attention Variants and Optimization"
+    presenter: "Kaizhao"
+    type: "presentation"
+    papers:
+      - title: "Attention paper"
+        url: "https://arxiv.org/abs/1706.03762"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Attentions%20and%20How%20to%20Run%20Them%20Fast.pdf"
+    
+  - date: "October 28th 2024"
+    title: "ML for Compiler Optimization"
+    presenter: "Dr. Sadayappan"
+    type: "presentation"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/CompilerOpt.pdf"
+    
+  - date: "November 4th 2024"
+    title: "Reinforcement Learning with Human Feedback (RLHF)"
+    presenter: "Lain"
+    type: "presentation"
+    papers:
+      - title: "Training language models to follow instructions with human feedback (Ouyang et al. 2022)"
+        url: "https://arxiv.org/abs/2203.02155"
+      - title: "Learning to summarize from human feedback (Stiennon et al. 2020)"
+        url: "https://arxiv.org/abs/2009.01325"
+      - title: "Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023)"
+        url: "https://arxiv.org/pdf/1706.03741"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/RLHF%20-%20Reading%20Group%20Presentation.pdf"
+    
+  - date: "November 11th 2024"
+    title: "Graph Neural Networks (GNN)"
+    presenter: "Sicong Che and Kate Zhang"
+    type: "presentation"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Graph%20Neural%20Networks.pdf"
+    
+  - date: "November 18th 2024"
+    title: "Evolution and Applications to Systems by Dr. Risto Miikkulainen"
+    presenter: "Dr. Risto Miikkulainen"
+    type: "guest"
+    materials:
+      - title: "Dr. Miikkulainen on the Lex Fridman Podcast (Neuroevolution and Evolutionary Computation)"
+        url: "https://www.youtube.com/watch?v=CY_LEa9xQtg"
+    
+  - date: "November 25th 2024"
+    title: "Learning Directed Operating System (LDOS)"
+    presenter: "Dr. Rossbach"
+    type: "presentation"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/ldos-ml-reading-group.pptx.pdf"

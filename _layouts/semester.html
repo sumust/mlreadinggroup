@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - ML Reading Group</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    /* Override default theme styles */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="semester-container">
+      <nav class="semester-nav">
+        <a href="{{ '/' | relative_url }}" class="nav-item">Home</a>
+        <a href="{{ '/fall2024/' | relative_url }}" class="nav-item {% if page.permalink == '/fall2024/' %}active{% endif %}">Fall 2024</a>
+        <a href="{{ '/spring2025/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2025/' %}active{% endif %}">Spring 2025</a>
+        <a href="{{ '/summer2025/' | relative_url }}" class="nav-item {% if page.permalink == '/summer2025/' %}active{% endif %}">Summer 2025</a>
+        <a href="{{ '/spring2026/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2026/' %}active{% endif %}">Spring 2026</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="semester-container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="semester-container">
+      <p>&copy; {{ 'now' | date: "%Y" }} ML Reading Group - Center for Distributed and Grid Computing</p>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

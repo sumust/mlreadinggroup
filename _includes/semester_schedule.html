@@ -1,0 +1,203 @@
+{% assign semester_data = site.data[include.semester] %}
+
+<div class="semester-header">
+  <h1>{{ semester_data.semester }}</h1>
+  {% if semester_data.meeting_info %}
+  <div class="meeting-info">
+    <div class="meeting-info-item">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+      </svg>
+      <span>{{ semester_data.meeting_info.time }}</span>
+    </div>
+    <div class="meeting-info-item">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+      </svg>
+      <span>{{ semester_data.meeting_info.location }}</span>
+    </div>
+    <div class="meeting-info-item">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
+      </svg>
+      <a href="{{ semester_data.meeting_info.zoom_link }}" style="color: white;">Join Zoom</a>
+    </div>
+  </div>
+  {% endif %}
+</div>
+
+<!-- Search and Filter Section -->
+<div class="search-filter-section">
+  <input type="text" id="search-box" class="search-box" placeholder="Search by title, presenter, or topic...">
+  
+  <div class="filter-tags">
+    <span class="filter-tag" data-filter="presentation">Presentations</span>
+    <span class="filter-tag" data-filter="guest">Guest Speakers</span>
+    <span class="filter-tag" data-filter="planning">Planning</span>
+    <span class="filter-tag" data-filter="break">Breaks</span>
+  </div>
+</div>
+
+<!-- View Controls -->
+<div class="view-controls">
+  <div class="view-toggle">
+    <button class="view-btn active" data-view="table">Table View</button>
+    <button class="view-btn" data-view="card">Card View</button>
+  </div>
+</div>
+
+<!-- Table View -->
+<div id="table-view" class="view-container sessions-table">
+  <table>
+    <thead>
+      <tr>
+        <th data-sort="date">Date <span class="sort-icon">↕</span></th>
+        <th data-sort="title">Title <span class="sort-icon">↕</span></th>
+        <th data-sort="presenter">Presenter <span class="sort-icon">↕</span></th>
+        <th>Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for session in semester_data.sessions %}
+      <tr class="session-row" data-type="{{ session.type }}" data-presenter="{{ session.presenter | downcase }}">
+        <td data-date="{{ session.date }}">{{ session.date }}</td>
+        <td data-title="{{ session.title }}">
+          <strong>{{ session.title }}</strong>
+          {% if session.type %}
+          <br><span class="session-type-badge badge-{{ session.type }}">{{ session.type }}</span>
+          {% endif %}
+        </td>
+        <td data-presenter="{{ session.presenter }}">{{ session.presenter }}</td>
+        <td>
+          {% if session.slides %}
+          <a href="{{ session.slides }}" class="resource-link">📊 Slides</a><br>
+          {% endif %}
+          {% if session.papers %}
+            {% for paper in session.papers %}
+            <a href="{{ paper.url }}" class="resource-link">📄 {{ paper.title }}</a><br>
+            {% endfor %}
+          {% endif %}
+          {% if session.materials %}
+            {% for material in session.materials %}
+            <a href="{{ material.url }}" class="resource-link">📚 {{ material.title }}</a><br>
+            {% endfor %}
+          {% endif %}
+          {% if session.background %}
+            {% for bg in session.background %}
+            <a href="{{ bg.url }}" class="resource-link">🔗 {{ bg.title }}</a><br>
+            {% endfor %}
+          {% endif %}
+          {% if session.resources %}
+            {% for resource in session.resources %}
+            <a href="{{ resource.url }}" class="resource-link">🔗 {{ resource.title }}</a><br>
+            {% endfor %}
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<!-- Card View -->
+<div id="card-view" class="view-container sessions-grid hidden">
+  {% for session in semester_data.sessions %}
+  <div class="session-card" data-type="{{ session.type }}" data-presenter="{{ session.presenter | downcase }}">
+    <div class="session-card-header">
+      <div class="session-date">{{ session.date }}</div>
+      <h3 class="session-title">{{ session.title }}</h3>
+    </div>
+    <div class="session-card-body">
+      {% if session.presenter and session.presenter != "" %}
+      <div class="session-presenter">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+          <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+        </svg>
+        <span>{{ session.presenter }}</span>
+      </div>
+      {% endif %}
+      
+      {% if session.type %}
+      <div class="mb-1">
+        <span class="session-type-badge badge-{{ session.type }}">{{ session.type }}</span>
+      </div>
+      {% endif %}
+      
+      <div class="session-resources">
+        {% if session.slides %}
+        <div class="resource-section">
+          <span class="resource-label">Slides</span>
+          <a href="{{ session.slides }}" class="resource-link">📊 View Slides</a>
+        </div>
+        {% endif %}
+        
+        {% if session.papers %}
+        <div class="resource-section">
+          <span class="resource-label">Papers</span>
+          <ul class="resource-list">
+            {% for paper in session.papers %}
+            <li><a href="{{ paper.url }}" class="resource-link">{{ paper.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        
+        {% if session.materials %}
+        <div class="resource-section">
+          <span class="resource-label">Materials</span>
+          <ul class="resource-list">
+            {% for material in session.materials %}
+            <li><a href="{{ material.url }}" class="resource-link">{{ material.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        
+        {% if session.background %}
+        <div class="resource-section">
+          <span class="resource-label">Background</span>
+          <ul class="resource-list">
+            {% for bg in session.background %}
+            <li><a href="{{ bg.url }}" class="resource-link">{{ bg.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        
+        {% if session.resources %}
+        <div class="resource-section">
+          <span class="resource-label">Resources</span>
+          <ul class="resource-list">
+            {% for resource in session.resources %}
+            <li><a href="{{ resource.url }}" class="resource-link">{{ resource.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Engagement Section -->
+<div class="engagement-section">
+  <h3>Participant Engagement</h3>
+  <p>Join the discussion and share your thoughts on the reading materials!</p>
+  <div>
+    <a href="#" class="qa-link" onclick="alert('Q&A feature coming soon!'); return false;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+        <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+        <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+      </svg>
+      Interactive Q&A
+    </a>
+    <a href="#" class="annotation-link" onclick="alert('Annotation feature coming soon!'); return false;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+        <path d="M2.5 1A1.5 1.5 0 0 0 1 2.5v11A1.5 1.5 0 0 0 2.5 15h6.086a1.5 1.5 0 0 0 1.06-.44l4.915-4.914A1.5 1.5 0 0 0 15 8.586V2.5A1.5 1.5 0 0 0 13.5 1h-11zM2 2.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 .5.5V8H9.5A1.5 1.5 0 0 0 8 9.5V14H2.5a.5.5 0 0 1-.5-.5v-11zm7 11.293V9.5a.5.5 0 0 1 .5-.5h4.293L9 13.793z"/>
+      </svg>
+      Shared Annotations
+    </a>
+  </div>
+</div>
