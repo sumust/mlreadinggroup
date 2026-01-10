@@ -1,6 +1,6 @@
 # ML Reading Group 
 
-Website including the weekly agenda, resources, and slides for Fall 2024, Spring 2025 and Summer 2025 semesters of the ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by Lain Mustafaoglu.
+Website including the weekly agenda, resources, and slides for Fall 2024, Spring 2025, Summer 2025, and Spring 2026 semesters of the ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by Lain Mustafaoglu.
 
 * [Zoom link](https://utexas.zoom.us/j/97188209574)
 * Meeting time/location: 2-3 pm at POB 4.116
@@ -19,7 +19,7 @@ Website including the weekly agenda, resources, and slides for Fall 2024, Spring
 
 [Schedule and Slides](https://sumust.github.io/mlreadinggroup/summer2025/)
 
-### SPRING 2026
+### SPRING 2026 (Current)
 
 [Schedule and Slides](https://sumust.github.io/mlreadinggroup/spring2026/)
 
