@@ -6,8 +6,8 @@ permalink: /spring2026/
 
 ### SPRING 2026
 
-## 2-3:30PM on Fridays
-## [Zoom link](https://utexas.zoom.us/j/85193616077)
+* 2-3:30PM on Fridays
+* [Zoom link](https://utexas.zoom.us/j/85193616077)
 
 1) **January 16th 2026 - Agenda Discussion**
 
