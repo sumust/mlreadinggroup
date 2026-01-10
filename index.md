@@ -24,7 +24,7 @@ Website including the weekly agenda, resources, and slides for Fall 2024, Spring
 
 [Schedule and Slides]({{ '/summer2025/' | relative_url }})
 
-### SPRING 2026 (Current)
+### SPRING 2026
 
 [Schedule and Slides]({{ '/spring2026/' | relative_url }})
 
