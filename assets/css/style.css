@@ -94,6 +94,13 @@ h4 { font-size: 1.25rem; }
   height: 20px;
 }
 
+/* Site header */
+.site-header {
+  background: white;
+  padding: var(--spacing-sm) 0;
+  margin-bottom: var(--spacing-md);
+}
+
 /* Navigation tabs */
 .semester-nav {
   background: white;
