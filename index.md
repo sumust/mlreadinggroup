@@ -14,19 +14,19 @@ Website including the weekly agenda, resources, and slides for Fall 2024, Spring
 
 ### FALL 2024
 
-[Schedule and Slides]({{ '/fall2024/' | relative_url }})
+[Schedule and Slides](https://sumust.github.io/mlreadinggroup/fall2024/)
 
 ### SPRING 2025
 
-[Schedule and Slides]({{ '/spring2025/' | relative_url }})
+[Schedule and Slides](https://sumust.github.io/mlreadinggroup/spring2025/)
 
 ### SUMMER 2025
 
-[Schedule and Slides]({{ '/summer2025/' | relative_url }})
+[Schedule and Slides](https://sumust.github.io/mlreadinggroup/summer2025/)
 
-### SPRING 2026
+### SPRING 2026 (Current)
 
-[Schedule and Slides]({{ '/spring2026/' | relative_url }})
+[Schedule and Slides](https://sumust.github.io/mlreadinggroup/spring2026/)
 
 ## Resources
 
