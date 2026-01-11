@@ -442,39 +442,6 @@ h4 { font-size: 1.25rem; }
   cursor: pointer;
 }
 
-/* Engagement section */
-.engagement-section {
-  background: white;
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-sm);
-  padding: var(--spacing-lg);
-  margin-top: var(--spacing-lg);
-}
-
-.engagement-section h3 {
-  margin-top: 0;
-}
-
-.qa-link, .annotation-link {
-  display: inline-flex;
-  align-items: center;
-  gap: var(--spacing-xs);
-  padding: var(--spacing-sm) var(--spacing-md);
-  background: var(--primary-color);
-  color: white;
-  text-decoration: none;
-  border-radius: var(--radius-sm);
-  transition: all 0.3s ease;
-  margin-right: var(--spacing-sm);
-  margin-bottom: var(--spacing-sm);
-}
-
-.qa-link:hover, .annotation-link:hover {
-  background: var(--secondary-color);
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-sm);
-}
-
 /* Responsive design */
 @media (max-width: 768px) {
   .semester-container {
