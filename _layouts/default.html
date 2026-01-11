@@ -39,6 +39,60 @@
       color: white;
       font-size: 2rem;
     }
+    
+    /* Home page specific styles */
+    .home-header {
+      background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+      color: white;
+      padding: var(--spacing-xl);
+      border-radius: var(--radius-lg);
+      margin-bottom: var(--spacing-lg);
+      box-shadow: var(--shadow-md);
+    }
+    
+    .home-header h1 {
+      margin: 0 0 var(--spacing-sm) 0;
+      color: white;
+      font-size: 2.5rem;
+    }
+    
+    .home-header p {
+      margin: 0;
+      font-size: 1.1rem;
+      opacity: 0.95;
+    }
+    
+    .home-content {
+      background: white;
+      padding: var(--spacing-lg);
+      border-radius: var(--radius-md);
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .home-content h2 {
+      margin-top: var(--spacing-md);
+      color: var(--primary-color);
+    }
+    
+    .home-content h3 {
+      margin-top: var(--spacing-md);
+      color: var(--secondary-color);
+    }
+    
+    .home-content a {
+      color: var(--primary-color);
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+    
+    .home-content a:hover {
+      color: var(--accent-color);
+      text-decoration: underline;
+    }
+    
+    .home-content ul {
+      line-height: 1.8;
+    }
   </style>
 </head>
 <body>
@@ -51,7 +105,7 @@
   <header class="site-header">
     <div class="semester-container">
       <nav class="semester-nav">
-        <a href="{{ '/' | relative_url }}" class="nav-item">Home</a>
+        <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' %}active{% endif %}">Home</a>
         <a href="{{ '/fall2024/' | relative_url }}" class="nav-item {% if page.permalink == '/fall2024/' %}active{% endif %}">Fall 2024</a>
         <a href="{{ '/spring2025/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2025/' %}active{% endif %}">Spring 2025</a>
         <a href="{{ '/summer2025/' | relative_url }}" class="nav-item {% if page.permalink == '/summer2025/' %}active{% endif %}">Summer 2025</a>
