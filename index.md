@@ -3,9 +3,12 @@ layout: default
 title: ML Reading Group
 ---
 
-# ML Reading Group 
+<div class="home-header">
+  <h1>ML Reading Group</h1>
+  <p>Website including the weekly agenda, resources, and slides for Fall 2024, Spring 2025, Summer 2025, and Spring 2026 semesters of the ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by Lain Mustafaoglu.</p>
+</div>
 
-Website including the weekly agenda, resources, and slides for Fall 2024, Spring 2025, Summer 2025, and Spring 2026 semesters of the ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by Lain Mustafaoglu.
+<div class="home-content">
 
 * [Zoom link](https://utexas.zoom.us/j/97188209574)
 * Meeting time/location: 2-3 pm at POB 4.116
@@ -44,3 +47,5 @@ Website including the weekly agenda, resources, and slides for Fall 2024, Spring
 * Neural Networks and Learning Machines, Haykin, 3rd edition | [pdf](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf)
 * Dr. Pingali's Bertinoro Talk on Backpropagation | [pdf](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
 * Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos | [website](https://sumust.github.io/mlfortherestofus/)
+
+</div>
