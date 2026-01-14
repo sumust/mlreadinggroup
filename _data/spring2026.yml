@@ -6,8 +6,8 @@ meeting_info:
   zoom_link: "https://utexas.zoom.us/j/85193616077"
 sessions:
   - date: "January 16th 2026"
-    title: "Agenda Discussion"
-    presenter: ""
+    title: "Bayesian Inference"
+    presenter: "Dr. Pingali"
     type: "planning"
     
   - date: "January 23rd 2026"
