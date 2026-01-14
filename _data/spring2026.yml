@@ -2,13 +2,13 @@ semester: "Spring 2026"
 year: 2026
 meeting_info:
   time: "2-3:30 PM on Fridays"
-  location: "POB 4.116"
+  location: "POB 4.116" 
   zoom_link: "https://utexas.zoom.us/j/85193616077"
 sessions:
   - date: "January 16th 2026"
     title: "Bayesian Inference"
     presenter: "Dr. Pingali"
-    type: "planning"
+    type: "presentation"
     
   - date: "January 23rd 2026"
     title: "TBD"
