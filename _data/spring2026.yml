@@ -9,11 +9,13 @@ sessions:
     title: "Bayesian Inference"
     presenter: "Dr. Pingali"
     type: "presentation"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Bayesian%20Inference.pptx"
     
   - date: "January 23rd 2026"
-    title: "TBD"
-    presenter: ""
-    type: "tbd"
+    title: "Autonomous Discovery of Sorting Networks with Deep Reinforcement Learning"
+    presenter: "Aryan Dua"
+    type: "presentation"
+    slides: ""
     
   - date: "January 30th 2026"
     title: "TBD"
