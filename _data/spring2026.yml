@@ -18,14 +18,14 @@ sessions:
     slides: ""
     
   - date: "January 30th 2026"
-    title: "TBD"
-    presenter: ""
-    type: "tbd"
+    title: "Minimax-Bayes Reinforcement Learning"
+    presenter: "Eshan"
+    type: "presentation"
     
   - date: "February 6th 2026"
-    title: "TBD"
-    presenter: ""
-    type: "tbd"
+    title: "Soft-Actor Critic"
+    presenter: "Sungyoung"
+    type: "presentation"
     
   - date: "February 13th 2026"
     title: "TBD"
