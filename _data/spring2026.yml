@@ -18,18 +18,18 @@ sessions:
     slides: ""
     
   - date: "January 30th 2026"
-    title: "Minimax-Bayes Reinforcement Learning"
+    title: "QMIX"
     presenter: "Eshan"
     type: "presentation"
     
   - date: "February 6th 2026"
-    title: "Soft-Actor Critic"
+    title: "Flow Q-Learning"
     presenter: "Sungyoung"
     type: "presentation"
     
   - date: "February 13th 2026"
     title: "TBD"
-    presenter: ""
+    presenter: "Reina"
     type: "tbd"
     
   - date: "February 20th 2026"
