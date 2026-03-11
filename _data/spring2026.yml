@@ -1,7 +1,7 @@
 semester: "Spring 2026"
 year: 2026
 meeting_info:
-  time: "3:30-5 PM on Fridays"
+  time: "11 AM-12:30 PM on Fridays"
   location: "POB 4.116" 
   zoom_link: "https://utexas.zoom.us/j/85193616077"
 sessions:
@@ -53,9 +53,12 @@ sessions:
     slides: "https://github.com/sumust/mlreadinggroup/blob/main/GPU2026.pptx"
     
   - date: "March 13th 2026"
-    title: "TBD"
-    presenter: ""
-    type: "tbd"
+    title: "Faster sorting algorithms discovered using deep reinforcement learning"
+    presenter: "Eshan"
+    type: "presentation"
+    papers:
+      - title: "Faster sorting algorithms discovered using deep reinforcement learning"
+        url: "https://www.nature.com/articles/s41586-023-06004-9"
     
   - date: "March 20th 2026"
     title: "Spring Break - No Meeting"
