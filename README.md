@@ -37,5 +37,5 @@ Website including the weekly agenda, resources, and slides for Fall 2024, Spring
 ### Neural Networks
 
 * Neural Networks and Learning Machines, Haykin, 3rd edition - [pdf](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf)
-* Dr. Pingali's Bertinoro Talk on Backpropagation - [pdf](https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf)
+* Dr. Pingali's Bertinoro Talk on Backpropagation - [pdf](https://github.com/sumust/mlreadinggroup/blob/main/presentations/bertinoro2024.pdf)
 * Dr. Pingali's BOOST'24 Lectures on ML/RL with Demos - [website](https://sumust.github.io/mlfortherestofus/)
