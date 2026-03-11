@@ -1,11 +1,24 @@
 // Interactive features for ML Reading Group website
 
 document.addEventListener('DOMContentLoaded', function() {
+  initializeNavToggle();
   initializeSearch();
   initializeSort();
   initializeFilters();
   initializeViewToggle();
 });
+
+// Mobile navigation toggle
+function initializeNavToggle() {
+  const toggle = document.querySelector('.nav-toggle');
+  const nav = document.getElementById('site-nav');
+  if (!toggle || !nav) return;
+
+  toggle.addEventListener('click', function() {
+    const isOpen = nav.classList.toggle('open');
+    toggle.setAttribute('aria-expanded', isOpen);
+  });
+}
 
 // Search functionality
 function initializeSearch() {

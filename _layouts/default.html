@@ -5,122 +5,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} - ML Reading Group</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <style>
-    /* Override default theme styles for clean appearance */
-    body {
-      margin: 0;
-      padding: 0;
-      background-color: #F8F9FA;
-    }
-    
-    .site-footer {
-      background-color: #2C3E50;
-      color: white;
-      padding: 2rem 0;
-      margin-top: 3rem;
-      text-align: center;
-    }
-    
-    .site-footer p {
-      margin: 0;
-    }
-    
-    /* Page title section */
-    .page-title {
-      background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-      color: white;
-      padding: var(--spacing-md) var(--spacing-lg);
-      margin-bottom: 0;
-      text-align: center;
-    }
-    
-    .page-title h1 {
-      margin: 0;
-      color: white;
-      font-size: 2rem;
-    }
-    
-    /* Home page specific styles */
-    .home-header {
-      background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-      color: white;
-      padding: var(--spacing-xl);
-      border-radius: var(--radius-lg);
-      margin-bottom: var(--spacing-lg);
-      box-shadow: var(--shadow-md);
-    }
-    
-    .home-header h1 {
-      margin: 0 0 var(--spacing-sm) 0;
-      color: white;
-      font-size: 2.5rem;
-    }
-    
-    .home-header p {
-      margin: 0;
-      font-size: 1.1rem;
-      opacity: 0.95;
-    }
-    
-    .home-content {
-      background: white;
-      padding: var(--spacing-lg);
-      border-radius: var(--radius-md);
-      box-shadow: var(--shadow-sm);
-    }
-    
-    .home-content h2 {
-      margin-top: var(--spacing-md);
-      color: var(--primary-color);
-    }
-    
-    .home-content h3 {
-      margin-top: var(--spacing-md);
-      color: var(--secondary-color);
-    }
-    
-    .home-content a {
-      color: var(--primary-color);
-      text-decoration: none;
-      transition: all 0.2s ease;
-    }
-    
-    .home-content a:hover {
-      color: var(--accent-color);
-      text-decoration: underline;
-    }
-    
-    .home-content ul {
-      line-height: 1.8;
-    }
-  </style>
 </head>
 <body>
-  <div class="page-title">
-    <div class="semester-container">
-      <h1>ML Reading Group</h1>
-    </div>
-  </div>
-  
   <header class="site-header">
-    <div class="semester-container">
-      <nav class="semester-nav">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-brand">
+        <span class="brand-icon">📚</span>
+        <span class="brand-text">ML Reading Group</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+        <span class="nav-toggle-bar"></span>
+      </button>
+      <nav class="site-nav" id="site-nav">
         <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' %}active{% endif %}">Home</a>
         <a href="{{ '/fall2024/' | relative_url }}" class="nav-item {% if page.permalink == '/fall2024/' %}active{% endif %}">Fall 2024</a>
         <a href="{{ '/spring2025/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2025/' %}active{% endif %}">Spring 2025</a>
         <a href="{{ '/summer2025/' | relative_url }}" class="nav-item {% if page.permalink == '/summer2025/' %}active{% endif %}">Summer 2025</a>
         <a href="{{ '/spring2026/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2026/' %}active{% endif %}">Spring 2026</a>
+        <a href="{{ '/recommended-papers/' | relative_url }}" class="nav-item {% if page.permalink == '/recommended-papers/' %}active{% endif %}">Recommended Papers</a>
       </nav>
     </div>
   </header>
 
-  <main class="semester-container">
+  <main class="main-container">
     {{ content }}
   </main>
 
   <footer class="site-footer">
-    <div class="semester-container">
-      <p>&copy; {{ 'now' | date: "%Y" }} ML Reading Group - Center for Distributed and Grid Computing</p>
+    <div class="footer-inner">
+      <p>&copy; {{ 'now' | date: "%Y" }} ML Reading Group — Center for Distributed and Grid Computing</p>
     </div>
   </footer>
 

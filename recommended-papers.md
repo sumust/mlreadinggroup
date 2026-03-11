@@ -4,12 +4,12 @@ title: Recommended Papers
 permalink: /recommended-papers/
 ---
 
-<div class="home-header">
+<div class="page-hero">
   <h1>Recommended Papers</h1>
   <p>A curated list of recommended papers for the ML Reading Group.</p>
 </div>
 
-<div class="home-content" markdown="1">
+<div class="papers-content" markdown="1">
 
 ## Machine Learning (ML)
 
