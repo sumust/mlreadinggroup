@@ -27,9 +27,13 @@ sessions:
     slides: "https://github.com/sumust/mlreadinggroup/blob/main/QMIX.pptx"
     
   - date: "February 6th 2026"
-    title: "Soft Actor-Critic (SAC)"
+    title: "Flow Q-Learning"
     presenter: "Sungyoung"
     type: "presentation"
+    papers:
+      - title: "Flow Q-Learning"
+        url: "https://arxiv.org/pdf/2502.02538"
+    slides: ""
     
   - date: "February 13th 2026"
     title: "DDPO"
