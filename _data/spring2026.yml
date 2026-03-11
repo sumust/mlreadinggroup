@@ -9,7 +9,7 @@ sessions:
     title: "Bayesian Inference"
     presenter: "Dr. Pingali"
     type: "presentation"
-    slides: "https://github.com/sumust/mlreadinggroup/blob/main/Bayesian%20Inference.pptx"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/Bayesian%20Inference.pptx"
     
   - date: "January 23rd 2026"
     title: "Autonomous Discovery of Sorting Networks with Deep Reinforcement Learning"
@@ -24,7 +24,7 @@ sessions:
     papers:
       - title: "QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning"
         url: "https://arxiv.org/abs/1803.11485"
-    slides: "https://github.com/sumust/mlreadinggroup/blob/main/QMIX.pptx"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/QMIX.pptx"
     
   - date: "February 6th 2026"
     title: "Flow Q-Learning"
@@ -42,25 +42,25 @@ sessions:
     papers:
       - title: "Training Diffusion Models with Reinforcement Learning"
         url: "https://arxiv.org/abs/2305.13301"
-    slides: "https://github.com/sumust/mlreadinggroup/blob/main/TRAINING%20DIFFUSION%20MODELS%20WITH%20REINFORCEMENT%20LEARNING.pptx"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/TRAINING%20DIFFUSION%20MODELS%20WITH%20REINFORCEMENT%20LEARNING.pptx"
     
   - date: "February 20th 2026"
     title: "GPU programming made easy: CUDA, warps, thread blocks and all that"
     presenter: "Dr. Pingali"
     type: "presentation"
-    slides: "https://github.com/sumust/mlreadinggroup/blob/main/GPU2026.pptx"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/GPU2026.pptx"
     
   - date: "February 27th 2026"
     title: "GPUs at warp speed"
     presenter: "Dr. Pingali"
     type: "presentation"
-    slides: "https://github.com/sumust/mlreadinggroup/blob/main/GPU2026.pptx"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/GPU2026.pptx"
     
   - date: "March 6th 2026"
     title: "Shared memory and thread blocks (GPUs Part III)"
     presenter: "Dr. Pingali"
     type: "presentation"
-    slides: "https://github.com/sumust/mlreadinggroup/blob/main/GPU2026.pptx"
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/GPU2026.pptx"
     
   - date: "March 13th 2026"
     title: "Faster sorting algorithms discovered using deep reinforcement learning"

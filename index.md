@@ -45,7 +45,7 @@ title: ML Reading Group
     <h2>🧠 Neural Networks</h2>
     <ul class="home-links">
       <li><a href="https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf">Haykin — Neural Networks, 3rd ed. (PDF)</a></li>
-      <li><a href="https://github.com/sumust/mlreadinggroup/blob/main/bertinoro2024.pdf">Dr. Pingali's Bertinoro Talk (PDF)</a></li>
+      <li><a href="https://github.com/sumust/mlreadinggroup/blob/main/presentations/bertinoro2024.pdf">Dr. Pingali's Bertinoro Talk (PDF)</a></li>
       <li><a href="https://sumust.github.io/mlfortherestofus/">Dr. Pingali's BOOST'24 Lectures</a></li>
     </ul>
   </div>
