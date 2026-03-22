@@ -5,7 +5,7 @@ title: ML Reading Group
 
 <div class="home-hero">
   <h1>ML Reading Group</h1>
-  <p>Weekly agenda, resources, and slides for the ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by Lain Mustafaoglu.</p>
+  <p>Weekly agenda, resources, and slides for the ML/RL Reading Group (Fall 2024 - Spring 2026) at the Center for Distributed and Grid Computing, run by <a href="https://sumust.github.io/"> Lain Mustafaoglu.</a></p>
   <div class="hero-actions">
     <a href="https://utexas.zoom.us/j/97188209574" class="hero-btn hero-btn-primary">Join Zoom</a>
     <span class="hero-info">📍 2-3 pm at POB 4.116</span>
