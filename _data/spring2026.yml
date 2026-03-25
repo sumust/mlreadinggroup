@@ -76,14 +76,14 @@ sessions:
     type: "break"
     
   - date: "March 27th 2026"
-    title: "TBD"
+    title: "GradFest - No Meeting"
     presenter: ""
-    type: "tbd"
+    type: "break"
     
   - date: "April 3rd 2026"
-    title: "TBD"
-    presenter: ""
-    type: "tbd"
+    title: "Trust Region Methods"
+    presenter: "Dr. Pingali and Lain"
+    type: "presentation"
     
   - date: "April 10th 2026"
     title: "TBD"
