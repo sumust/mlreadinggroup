@@ -69,6 +69,7 @@ sessions:
     papers:
       - title: "Faster sorting algorithms discovered using deep reinforcement learning"
         url: "https://www.nature.com/articles/s41586-023-06004-9"
+    slides: ""
     
   - date: "March 20th 2026"
     title: "Spring Break - No Meeting"
@@ -81,14 +82,15 @@ sessions:
     type: "break"
     
   - date: "April 3rd 2026"
+    title: "ANCHOR - Articulated Neural Control via Hamiltonian Optimized Robustness"
+    presenter: "Thribhuvan Rapolu"
+    type: "presentation"
+    slides: ""
+    
+  - date: "April 10th 2026"
     title: "Trust Region Methods"
     presenter: "Dr. Pingali and Lain"
     type: "presentation"
-    
-  - date: "April 10th 2026"
-    title: "TBD"
-    presenter: ""
-    type: "tbd"
     
   - date: "April 17th 2026"
     title: "TBD"
