@@ -324,6 +324,47 @@ a:hover {
   margin: 0;
 }
 
+/* Resource Tabs */
+.resource-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.resource-tab {
+  padding: 0.6rem 1.25rem;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-light);
+  transition: all 0.2s;
+}
+
+.resource-tab:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.resource-tab.active {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
+/* Resource Panels */
+.resource-panel {
+  display: none;
+}
+
+.resource-panel.active {
+  display: block;
+}
+
+/* Papers content card */
 .papers-content {
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -351,6 +392,11 @@ a:hover {
 .papers-content li {
   padding: 0.5rem 0;
   border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
 }
 
 .papers-content li:last-child {
@@ -359,6 +405,32 @@ a:hover {
 
 .papers-content a {
   font-weight: 500;
+}
+
+/* Paper year/venue badge */
+.paper-meta {
+  display: inline-block;
+  background: #EFF6FF;
+  color: var(--primary-dark);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* Resource kind badge (Textbook, Course, etc.) */
+.resource-kind {
+  display: inline-block;
+  background: #F0FDF4;
+  color: #166534;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 /* ===== Semester Schedule Pages ===== */
@@ -767,6 +839,19 @@ a:hover {
 
   .semester-header {
     padding: 1.5rem 1.25rem;
+  }
+
+  .resource-tabs {
+    flex-direction: column;
+  }
+
+  .papers-content {
+    padding: 1.25rem 1rem;
+  }
+
+  .papers-content li {
+    flex-direction: column;
+    gap: 0.25rem;
   }
 }
 

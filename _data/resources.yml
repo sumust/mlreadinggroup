@@ -1,0 +1,77 @@
+# Resources data file — edit here to add/update papers and learning resources.
+# Papers will appear in the "Recommended Papers" tab; learning resources in the "Learning Resources" tab.
+
+papers:
+  ml:
+    - title: "Recursive Language Models"
+      url: "https://arxiv.org/abs/2501.07682"
+      year: 2025
+    - title: "Transformers without Normalization"
+      url: "https://arxiv.org/abs/2503.02681"
+      year: 2025
+    - title: "Hardware Scaling Trends and Diminishing Returns in Large-Scale Distributed Training"
+      url: "https://arxiv.org/abs/2503.05139"
+      year: 2025
+    - title: "ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution"
+      url: "https://arxiv.org/abs/2505.13453"
+      year: 2025
+      venue: "NeurIPS"
+    - title: "Flow Matching for Generative Modeling"
+      url: "https://arxiv.org/abs/2210.02747"
+      year: 2022
+
+  rl:
+    - title: "Partially Observable Reinforcement Learning with Memory Traces"
+      url: "https://arxiv.org/abs/2501.16688"
+      year: 2025
+      venue: "ICML"
+    - title: "CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning"
+      url: "https://arxiv.org/abs/2502.15265"
+      year: 2025
+    - title: "Revisiting the Minimalist Approach to Offline Reinforcement Learning"
+      url: "https://arxiv.org/abs/2305.09836"
+      year: 2023
+    - title: "Flow Matching Policy Gradients"
+      url: "https://arxiv.org/abs/2505.12948"
+      year: 2025
+    - title: "Normalizing Flows are Capable Models for RL"
+      url: "https://arxiv.org/abs/2312.07792"
+      year: 2023
+    - title: "Behavior Regularized Offline Reinforcement Learning"
+      url: "https://arxiv.org/abs/1911.11361"
+      year: 2019
+    - title: "Training Diffusion Models with Reinforcement Learning"
+      url: "https://arxiv.org/abs/2305.13301"
+      year: 2023
+
+learning:
+  rl:
+    - title: "Barto & Sutton Textbook (PDF)"
+      url: "https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf"
+      kind: "Textbook"
+    - title: "David Silver's RL Course"
+      url: "https://www.davidsilver.uk/teaching/"
+      kind: "Course"
+    - title: "DeepRL Bootcamp"
+      url: "https://sites.google.com/view/deep-rl-bootcamp"
+      kind: "Course"
+    - title: "Pieter Abbeel's DeepRL Series"
+      url: "https://www.youtube.com/watch?v=2GwBez0D20A"
+      kind: "Video"
+    - title: "RL Tutorials — Tim Miller"
+      url: "https://gibberblot.github.io/rl-notes/single-agent/value-iteration.html"
+      kind: "Tutorial"
+    - title: "Dr. Pingali's BOOST'24 Lectures"
+      url: "https://sumust.github.io/mlfortherestofus/"
+      kind: "Lectures"
+
+  neural_networks:
+    - title: "Haykin — Neural Networks, 3rd ed. (PDF)"
+      url: "https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf"
+      kind: "Textbook"
+    - title: "Dr. Pingali's Bertinoro Talk (PDF)"
+      url: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/bertinoro2024.pdf"
+      kind: "Slides"
+    - title: "Dr. Pingali's BOOST'24 Lectures"
+      url: "https://sumust.github.io/mlfortherestofus/"
+      kind: "Lectures"
