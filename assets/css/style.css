@@ -1,4 +1,4 @@
-/* ML Reading Group — Custom Stylesheet */
+/* ML/RL Reading Group — Custom Stylesheet */
 
 /* Typography */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
@@ -203,6 +203,21 @@ a:hover {
   color: var(--primary-dark);
 }
 
+.hero-name-link {
+  color: #fff;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.hero-name-link:hover {
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+}
+
 .hero-info {
   font-size: 0.95rem;
   opacity: 0.9;
@@ -289,7 +304,7 @@ a:hover {
   color: var(--primary-dark);
 }
 
-/* ===== Recommended Papers Page ===== */
+/* ===== Resources Page ===== */
 .page-hero {
   background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
   color: #fff;
@@ -685,6 +700,16 @@ a:hover {
 
 .site-footer p {
   margin: 0;
+}
+
+.footer-link {
+  color: #93C5FD;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-link:hover {
+  color: #BFDBFE;
 }
 
 /* ===== Responsive ===== */

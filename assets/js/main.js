@@ -1,4 +1,4 @@
-// Interactive features for ML Reading Group website
+// Interactive features for ML/RL Reading Group website
 
 document.addEventListener('DOMContentLoaded', function() {
   initializeNavToggle();
