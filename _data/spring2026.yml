@@ -93,9 +93,9 @@ sessions:
     type: "presentation"
     
   - date: "April 17th 2026"
-    title: "TBD"
-    presenter: "Trust Region Methods"
-    type: "Dr. Pingali and Lain"
+    title: "Trust Region Methods"
+    presenter: "Dr. Pingali and Lain"
+    type: "presentation"
     
   - date: "April 24th 2026"
     title: "Trust Region Methods"
