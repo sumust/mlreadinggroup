@@ -69,7 +69,7 @@ sessions:
     papers:
       - title: "Faster sorting algorithms discovered using deep reinforcement learning"
         url: "https://www.nature.com/articles/s41586-023-06004-9"
-    slides: ""
+    slides: "https://github.com/sumust/mlreadinggroup/blob/main/presentations/faster_sorting.pdf"
     
   - date: "March 20th 2026"
     title: "Spring Break - No Meeting"
@@ -88,26 +88,21 @@ sessions:
     slides: ""
     
   - date: "April 10th 2026"
-    title: "Trust Region Methods"
-    presenter: "Dr. Pingali and Lain"
+    title: "Towards Efficient and Expressive Offline RL via Flow-Anchored Noise-conditioned Q-Learning"
+    presenter: "Sungyoung"
     type: "presentation"
     
   - date: "April 17th 2026"
     title: "TBD"
-    presenter: ""
-    type: "tbd"
+    presenter: "Trust Region Methods"
+    type: "Dr. Pingali and Lain"
     
   - date: "April 24th 2026"
-    title: "TBD"
-    presenter: ""
+    title: "Trust Region Methods"
+    presenter: "Dr. Pingali and Lain"
     type: "tbd"
     
   - date: "May 1st 2026"
     title: "TBD"
-    presenter: ""
-    type: "tbd"
-    
-  - date: "May 8th 2026"
-    title: "TBD"
-    presenter: ""
+    presenter: "TBD"
     type: "tbd"
