@@ -1,4 +1,4 @@
-# ML Reading Group 
+# ML/RL Reading Group 
 
 Website including the weekly agenda, resources, and slides for Fall 2024, Spring 2025, Summer 2025, and Spring 2026 semesters of the ML/RL Reading Group at the Center for Distributed and Grid Computing, maintained by [Lain (Zelal) Mustafaoglu](zelmus.com).
 

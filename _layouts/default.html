@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} - ML Reading Group</title>
+  <title>{{ page.title }} - ML/RL Reading Group</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
@@ -11,7 +11,7 @@
     <div class="header-inner">
       <a href="{{ '/' | relative_url }}" class="site-brand">
         <span class="brand-icon">📚</span>
-        <span class="brand-text">ML Reading Group</span>
+        <span class="brand-text">ML/RL Reading Group</span>
       </a>
       <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
         <span class="nav-toggle-bar"></span>
@@ -24,7 +24,7 @@
         <a href="{{ '/spring2025/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2025/' %}active{% endif %}">Spring 2025</a>
         <a href="{{ '/summer2025/' | relative_url }}" class="nav-item {% if page.permalink == '/summer2025/' %}active{% endif %}">Summer 2025</a>
         <a href="{{ '/spring2026/' | relative_url }}" class="nav-item {% if page.permalink == '/spring2026/' %}active{% endif %}">Spring 2026</a>
-        <a href="{{ '/recommended-papers/' | relative_url }}" class="nav-item {% if page.permalink == '/recommended-papers/' %}active{% endif %}">Recommended Papers</a>
+        <a href="{{ '/resources/' | relative_url }}" class="nav-item {% if page.permalink == '/resources/' %}active{% endif %}">Resources</a>
       </nav>
     </div>
   </header>
@@ -35,7 +35,7 @@
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>&copy; {{ 'now' | date: "%Y" }} ML/RL Reading Group @ CDGC — Lain Mustafaoglu</p>
+      <p>&copy; {{ 'now' | date: "%Y" }} ML/RL Reading Group @ CDGC — <a href="https://sumust.github.io/" class="footer-link">Lain Mustafaoglu</a></p>
     </div>
   </footer>
 
