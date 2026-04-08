@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeSort();
   initializeFilters();
   initializeViewToggle();
+  initializeResourceTabs();
 });
 
 // Mobile navigation toggle
@@ -222,3 +223,26 @@ function loadFavorites() {
 
 // Initialize favorites after DOM is loaded
 document.addEventListener('DOMContentLoaded', loadFavorites);
+
+// Resource-page tab switching
+function initializeResourceTabs() {
+  var tabs = document.querySelectorAll('.resource-tab');
+  if (!tabs.length) return;
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function() {
+      var target = this.dataset.tab;
+
+      // Toggle active button
+      tabs.forEach(function(t) { t.classList.remove('active'); });
+      this.classList.add('active');
+
+      // Toggle active panel
+      document.querySelectorAll('.resource-panel').forEach(function(panel) {
+        panel.classList.remove('active');
+      });
+      var panel = document.getElementById('tab-' + target);
+      if (panel) panel.classList.add('active');
+    });
+  });
+}
