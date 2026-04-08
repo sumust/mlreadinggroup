@@ -20,6 +20,7 @@ title: ML/RL Reading Group
       <li><a href="{{ '/summer2025/' | relative_url }}">Summer 2025</a></li>
       <li><a href="{{ '/spring2025/' | relative_url }}">Spring 2025</a></li>
       <li><a href="{{ '/fall2024/' | relative_url }}">Fall 2024</a></li>
+      <li>Summer 2024 (ask for slides) </li>
     </ul>
   </div>
 
